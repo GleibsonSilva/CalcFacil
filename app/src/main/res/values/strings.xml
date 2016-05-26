@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CalcFacil</string>
+    <!-- Strings Inicio e Activitys -->
+    <string name="mensagem_inicio">Olá, faça cálculos simples com mais agilidade!</string>
+    <string name="inicio">Inicio</string>
+    <string name="sair">Sair</string>
+    <!-- Strings Gerais -->
+    <string name="botao">Calcular X</string>
+    <string name="numero">Num</string>
+    <string name="igual">=</string>
+    <string name="x">X</string>
+    <string name="de">de</string>
+    <string name="porcento">%</string>
+    <string name="mais">+</string>
+    <string name="divi">/</string>
+    <string name="limpar">Limpar</string>
+    <!-- Strings Regra de Tres -->
+    <string name="regra_tres">Regra de Três</string>
+    <string name="digite_regra_tres">Digite os valores para cálculo:</string>
+    <string name="se">Se</string>
+    <string name="entao">Então</string>
+    <!-- Strings Retirar Porcentagem -->
+    <string name="retirar_porcentagem">Retirar Porcentagem</string>
+    <string name="digite_valor_retirar">Para retirar uma porcentagem de um valor, digite:</string>
+    <!-- Strings Somar Porcentagem -->
+    <string name="somar_porcentagem">Somar Porcentagem</string>
+    <string name="digite_valor_somar">Para somar uma porcentagem de um valor a ele mesmo, digite:</string>
+    <!-- Strings Operações com decimais -->
+    <string name="operar_decimais">Operações com Decimais</string>
+    <string name="digite_valor_decimais">Digite os valores e a operação que deseja realizar com decimais:</string>
+    <string name="mult">*</string>
+    <string name="menos">-</string>
+    <!-- Strings  Divisão de Fração -->
+    <string name="divisao_fracao">Divisão de Fração</string>
+    <string name="digite_valor_fracao">Digite os valores das frações:</string>
+</resources>
